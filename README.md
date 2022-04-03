@@ -1,6 +1,11 @@
 # Voice_Automation
 A project based on PyAutoGUI and SpeechRecognition that allows you to operate your system with only voice commands. The main motivation for this is to provide a more user-friendly interface for physically challenged people.
 
+## Project Dependecies
+- Windows OS
+- Python3
+- MySQL
+
 ## Setup
 - Clone this repository using: `git clone https://github.com/infinity1729/Voice_Automation.git`
 - Then, cd to the desired location:
